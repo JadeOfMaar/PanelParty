@@ -1,8 +1,8 @@
 {
 	"NAME":"PanelParty",
 	"DOWNLOAD":"https://github.com/JadeOfMaar/PanelParty/releases",
-	"URL":"https://github.com/JadeOfMaar/PanelParty/tree/master/GameData/DeepSky/PanelParty/Version/PanelParty.version",
-	"CHANGE_LOG_URL":"https://github.com/JadeOfMaar/PanelParty/tree/master/GameData/DeepSky/PanelParty/Version/Changelog.txt",
+	"URL":"https://github.com/JadeOfMaar/PanelParty/tree/master/GameData/PanelParty/Version/PanelParty.version",
+	"CHANGE_LOG_URL":"https://github.com/JadeOfMaar/PanelParty/tree/master/GameData/PanelParty/Version/Changelog.txt",
 	"GITHUB":
 	{
 		"USERNAME":"JadeOfMaar",
